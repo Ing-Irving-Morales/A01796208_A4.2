@@ -1,0 +1,9 @@
+Estadísticas Descriptivas
+
+Promedio:               187906599279774728192.000000
+Mediana:                188008049965542998016.000000
+Moda:                   127620004531948994560.000000
+Desviación Estandar:    107399951657667608576.000000
+Varianza:               11534749616069338239761958751339425038336.000000
+
+Tiempo de ejecucción: 0.002020 segundos
